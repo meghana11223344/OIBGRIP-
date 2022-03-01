@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Landing page using HTML and CSS </title>
+	<link rel="stylesheet" type="text/css" href="sweb.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+	<header>
+		<nav class="nav1">
+			<div>
+				<p>
+					contact : Cafe in ,pune India.
+			        Phone: +874563782899
+				</p>
+			</div>
+			<div>
+				<i class="fa fa-facebook"></i>
+				<i class="fa fa-instagram"></i>
+				<i class="fa fa-google"></i>
+				<a href="#">Signup</a>
+				<a href="#">Register</a>
+			</div>
+		</nav>
+		<nav class="nav2">
+			<div>
+				<img src="img11.jpg">
+			</div>
+            <div class="menu">
+            	<a href="#">Home</a>
+            <a href="#">About us</a>
+            <a href="#">Gallery</a>
+            <a href="#">Contact</a>
+
+
+            	
+            </div>
+   </nav> 
+   <div class="h-text">
+   	<h1>WELCOME TO <span>CAFE LIBRARY</span></h1>
+   </h1>
+   <p>
+   	 TAKE  SIP AND TURN A PAGE ... HAPPY READING !!
+   </p>
+   <a href="#">Memborship</a>
+   <a href="#"> Gifts</a>
+   </div>
+
+  
+
+	</header>
+
+</body>
+</html>
