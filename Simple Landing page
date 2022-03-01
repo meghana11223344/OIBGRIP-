@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Landing page using HTML and CSS </title>
+	<link rel="stylesheet" type="text/css" href="sweb.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+	<head>
+		<nav class="nav1">
+			<div>
+				<p>
+					contact : Cafe in ,pune India.
+			        Phone: +874563782899
+				</p>
+			</div>
+			<div>
+				<i class="fa fa-facebook"></i>
+				<i class="fa fa-instagram"></i>
+				<i class="fa fa-google"></i>
+				<a href="#">Signup</a>
+				<a href="#">Register</a>
+			</div>
+		</nav>
+	</head>
+
+</body>
+</html>
